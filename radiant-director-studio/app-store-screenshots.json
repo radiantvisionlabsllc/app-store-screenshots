@@ -22,7 +22,7 @@
         "headline": {
           "en": "Lead With\nConfidence"
         },
-        "screenshot": "",
+        "screenshot": "/screenshots/apple/iphone/en/01.png",
         "imageElements": [
           {
             "id": "radiant-crest",
@@ -43,12 +43,12 @@
         "id": "radiant-director-02",
         "layout": "device-bottom",
         "label": {
-          "en": "RADIANT DIRECTOR · DAILY PLANNING"
+          "en": "RADIANT DIRECTOR · DIRECTOR TOOLS"
         },
         "headline": {
-          "en": "Your Day.\nOrganized."
+          "en": "Your Workday.\nSimplified."
         },
-        "screenshot": "",
+        "screenshot": "/screenshots/apple/iphone/en/02.png",
         "imageElements": [
           {
             "id": "radiant-crest",
@@ -69,12 +69,12 @@
         "id": "radiant-director-03",
         "layout": "device-top",
         "label": {
-          "en": "RADIANT DIRECTOR · STAFF RECORDS"
+          "en": "RADIANT DIRECTOR · STAFF SUPPORT"
         },
         "headline": {
-          "en": "Stay Ahead\nof Expirations."
+          "en": "Help Your\nTeam Grow."
         },
-        "screenshot": "",
+        "screenshot": "/screenshots/apple/iphone/en/03.png",
         "inverted": true,
         "imageElements": [
           {
@@ -96,12 +96,12 @@
         "id": "radiant-director-04",
         "layout": "hero",
         "label": {
-          "en": "RADIANT DIRECTOR · AI SUPPORT"
+          "en": "RADIANT DIRECTOR · ASK JAG"
         },
         "headline": {
-          "en": "Meet Your\nAI Team"
+          "en": "Answers.\nWithin Reach."
         },
-        "screenshot": "",
+        "screenshot": "/screenshots/apple/iphone/en/04.png",
         "imageElements": [
           {
             "id": "radiant-crest",
@@ -122,12 +122,12 @@
         "id": "radiant-director-05",
         "layout": "device-bottom",
         "label": {
-          "en": "RADIANT DIRECTOR · YOUR FILES"
+          "en": "RADIANT DIRECTOR · YOUR DOCUMENTS"
         },
         "headline": {
           "en": "Your Records.\nWithin Reach."
         },
-        "screenshot": "",
+        "screenshot": "/screenshots/apple/iphone/en/05.png",
         "inverted": true,
         "backgroundColor": "#242124",
         "imageElements": [
@@ -150,12 +150,12 @@
         "id": "radiant-director-06",
         "layout": "device-top",
         "label": {
-          "en": "RADIANT DIRECTOR · MORE TIME TO LEAD"
+          "en": "RADIANT DIRECTOR · RADIANT MEALS"
         },
         "headline": {
-          "en": "Less Busywork.\nMore Leadership."
+          "en": "Meal Tracking.\nMade Clear."
         },
-        "screenshot": "",
+        "screenshot": "/screenshots/apple/iphone/en/06.png",
         "inverted": true,
         "imageElements": [
           {
