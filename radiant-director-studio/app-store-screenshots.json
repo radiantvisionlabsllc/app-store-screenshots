@@ -37,7 +37,15 @@
             },
             "fit": "contain"
           }
-        ]
+        ],
+        "transforms": {
+          "device": {
+            "x": 170,
+            "y": 740,
+            "width": 980,
+            "height": 2000
+          }
+        }
       },
       {
         "id": "radiant-director-02",
@@ -81,8 +89,8 @@
             "id": "radiant-crest",
             "src": "/screenshots/uploaded/9bde2766805418b3.png",
             "transform": {
-              "x": 74,
-              "y": 55,
+              "x": 505,
+              "y": 2570,
               "width": 310,
               "height": 175,
               "rotation": 0,
@@ -90,7 +98,21 @@
             },
             "fit": "contain"
           }
-        ]
+        ],
+        "transforms": {
+          "device": {
+            "x": 235,
+            "y": 100,
+            "width": 850,
+            "height": 1735
+          },
+          "caption": {
+            "x": 106,
+            "y": 2000,
+            "width": 1108,
+            "height": 650
+          }
+        }
       },
       {
         "id": "radiant-director-04",
@@ -116,7 +138,15 @@
             },
             "fit": "contain"
           }
-        ]
+        ],
+        "transforms": {
+          "device": {
+            "x": 170,
+            "y": 740,
+            "width": 980,
+            "height": 2000
+          }
+        }
       },
       {
         "id": "radiant-director-05",
@@ -162,8 +192,8 @@
             "id": "radiant-crest",
             "src": "/screenshots/uploaded/9bde2766805418b3.png",
             "transform": {
-              "x": 74,
-              "y": 55,
+              "x": 505,
+              "y": 2570,
               "width": 310,
               "height": 175,
               "rotation": 0,
@@ -171,7 +201,21 @@
             },
             "fit": "contain"
           }
-        ]
+        ],
+        "transforms": {
+          "device": {
+            "x": 235,
+            "y": 100,
+            "width": 850,
+            "height": 1735
+          },
+          "caption": {
+            "x": 106,
+            "y": 2000,
+            "width": 1108,
+            "height": 650
+          }
+        }
       }
     ],
     "android": [
