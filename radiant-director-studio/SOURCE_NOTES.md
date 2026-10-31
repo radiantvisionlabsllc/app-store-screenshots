@@ -5,13 +5,13 @@ Six-screen iPhone collection using authentic user-supplied mobile captures from 
 | Screen | Source | Feature |
 |---|---|---|
 | 1 | IMG_5340.jpeg | CENTER LEADERSHIP |
-| 2 | IMG_5345.jpeg | DIRECTOR TOOLS |
+| 2 | IMG_5358.jpeg | DAILY PLANNING |
 | 3 | IMG_5353.png | STAFF SUPPORT |
 | 4 | IMG_5346.jpeg | ASK JAG |
-| 5 | IMG_5342.png | YOUR DOCUMENTS |
+| 5 | IMG_5357.jpeg | YOUR DOCUMENTS |
 | 6 | IMG_5348.jpeg | RADIANT MEALS |
 
-The Director Tools screen replaces the earlier calendar placeholder because no calendar capture was supplied. The Staff Career screen replaces the expiration-alert placeholder; its headline now describes staff support. Ask Jag uses a specific, verified feature rather than a generic AI-team claim. The closing screen highlights actual Radiant Meals functionality.
+The cleaner calendar capture restores the daily planning screen and its original headline, “Your Day. Organized.” The cleaner vault capture replaces its earlier cramped-header version. The Staff Career screen replaces the expiration-alert placeholder; its headline now describes staff support. Ask Jag uses a specific, verified feature rather than a generic AI-team claim. The closing screen highlights actual Radiant Meals functionality.
 
 The named employee roster was excluded from marketing assets. Screen recordings were inspected but were not needed for the selected six stills. Source UI remains authentic, including its existing header wrapping, low-contrast text in some areas, and empty meal counts. These are product UI details, not editor defects, and have not been painted over.
 

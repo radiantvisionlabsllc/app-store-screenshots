@@ -17,7 +17,7 @@
         "id": "radiant-director-01",
         "layout": "hero",
         "label": {
-          "en": "RADIANT DIRECTOR · CENTER LEADERSHIP"
+          "en": "RADIANT DIRECTOR \u00b7 CENTER LEADERSHIP"
         },
         "headline": {
           "en": "Lead With\nConfidence"
@@ -51,10 +51,10 @@
         "id": "radiant-director-02",
         "layout": "device-bottom",
         "label": {
-          "en": "RADIANT DIRECTOR · DIRECTOR TOOLS"
+          "en": "RADIANT DIRECTOR \u00b7 DAILY PLANNING"
         },
         "headline": {
-          "en": "Your Workday.\nSimplified."
+          "en": "Your Day.\nOrganized."
         },
         "screenshot": "/screenshots/apple/iphone/en/02.png",
         "imageElements": [
@@ -77,7 +77,7 @@
         "id": "radiant-director-03",
         "layout": "device-top",
         "label": {
-          "en": "RADIANT DIRECTOR · STAFF SUPPORT"
+          "en": "RADIANT DIRECTOR \u00b7 STAFF SUPPORT"
         },
         "headline": {
           "en": "Help Your\nTeam Grow."
@@ -118,7 +118,7 @@
         "id": "radiant-director-04",
         "layout": "hero",
         "label": {
-          "en": "RADIANT DIRECTOR · ASK JAG"
+          "en": "RADIANT DIRECTOR \u00b7 ASK JAG"
         },
         "headline": {
           "en": "Answers.\nWithin Reach."
@@ -152,7 +152,7 @@
         "id": "radiant-director-05",
         "layout": "device-bottom",
         "label": {
-          "en": "RADIANT DIRECTOR · YOUR DOCUMENTS"
+          "en": "RADIANT DIRECTOR \u00b7 YOUR DOCUMENTS"
         },
         "headline": {
           "en": "Your Records.\nWithin Reach."
@@ -180,7 +180,7 @@
         "id": "radiant-director-06",
         "layout": "device-top",
         "label": {
-          "en": "RADIANT DIRECTOR · RADIANT MEALS"
+          "en": "RADIANT DIRECTOR \u00b7 RADIANT MEALS"
         },
         "headline": {
           "en": "Meal Tracking.\nMade Clear."
