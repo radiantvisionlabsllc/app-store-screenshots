@@ -1,10 +1,10 @@
 # Radiant Director App Store collection
 
-Six-screen iPhone collection using authentic user-supplied mobile captures from October 30–31, 2026. Original source pixels are preserved; JPEG captures are converted to RGB PNG without retouching app content.
+Six-screen iPhone collection using authentic user-supplied mobile captures from October 30–31, 2026. The welcome screenshot uses the generic demo name Jane in its greeting, edited with the built-in image editor. The remaining source captures are unretouched; JPEG captures are converted to RGB PNG.
 
 | Screen | Source | Feature |
 |---|---|---|
-| 1 | IMG_5340.jpeg | CENTER LEADERSHIP |
+| 1 | IMG_5340.jpeg (demo-name edit: Jane) | CENTER LEADERSHIP |
 | 2 | IMG_5358.jpeg | DAILY PLANNING |
 | 3 | IMG_5353.png | STAFF SUPPORT |
 | 4 | IMG_5346.jpeg | ASK JAG |
